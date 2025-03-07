@@ -1,4 +1,3 @@
-#! /home/ibrahimiziz/Documents/VSCode/.venv/bin/python3
 # Signature Detection + White & Black list +login
 import os
 import sys

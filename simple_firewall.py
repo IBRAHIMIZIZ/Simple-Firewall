@@ -1,4 +1,3 @@
-#! /home/ibrahimiziz/Documents/VSCode/.venv/bin/python3
 # there is no Signature Detection + White & Black list
 import os
 import sys
