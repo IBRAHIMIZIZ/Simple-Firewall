@@ -76,3 +76,4 @@ if __name__ == "__main__":
     host_port_mapping = get_live_hosts_and_ports(network, netmask)
     for host, open_ports in host_port_mapping.items():
         print(f"\nHost {host} has the following open ports: {open_ports}")
+

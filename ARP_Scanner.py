@@ -93,3 +93,4 @@ for sent, received in answered:  # xx:xx:xx:xx:xx:xx
 
 print(f"\n[+] Total hosts found: {len(answered)}")
 print(f"[+] Scan completed in {end_time - start_time:.2f} seconds.")
+
